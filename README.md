@@ -1,4 +1,4 @@
-# tSIERA_Estimator
+# tPIP_Estimator
 Neural Network used to estimate Pitches per Inning Pitched
 based off coursera project 
 https://github.com/MaxPoon/coursera-Advanced-Machine-Learning-specialization/blob/master/Introduction-To-Deep-Learning/week2/my1stNN.ipynb
